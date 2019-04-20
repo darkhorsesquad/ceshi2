@@ -1,0 +1,11 @@
+D:\百度网盘项目\baidu-pan-ceshi2\Model\bin\Debug\Model.dll.config
+D:\百度网盘项目\baidu-pan-ceshi2\Model\bin\Debug\Model.dll
+D:\百度网盘项目\baidu-pan-ceshi2\Model\bin\Debug\Model.pdb
+D:\百度网盘项目\baidu-pan-ceshi2\Model\bin\Debug\EntityFramework.dll
+D:\百度网盘项目\baidu-pan-ceshi2\Model\bin\Debug\EntityFramework.SqlServer.dll
+D:\百度网盘项目\baidu-pan-ceshi2\Model\bin\Debug\EntityFramework.xml
+D:\百度网盘项目\baidu-pan-ceshi2\Model\bin\Debug\EntityFramework.SqlServer.xml
+D:\百度网盘项目\baidu-pan-ceshi2\Model\bin\Debug\zh-Hans\EntityFramework.resources.dll
+D:\百度网盘项目\baidu-pan-ceshi2\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+D:\百度网盘项目\baidu-pan-ceshi2\Model\obj\Debug\Model.dll
+D:\百度网盘项目\baidu-pan-ceshi2\Model\obj\Debug\Model.pdb

@@ -1,0 +1,10 @@
+D:\百度网盘项目\baidu-pan-ceshi2\Baidu.Service\bin\Debug\Baidu.Service.dll
+D:\百度网盘项目\baidu-pan-ceshi2\Baidu.Service\bin\Debug\Baidu.Service.pdb
+D:\百度网盘项目\baidu-pan-ceshi2\Baidu.Service\obj\Debug\Baidu.Service.csprojResolveAssemblyReference.cache
+D:\百度网盘项目\baidu-pan-ceshi2\Baidu.Service\obj\Debug\Baidu.Service.dll
+D:\百度网盘项目\baidu-pan-ceshi2\Baidu.Service\obj\Debug\Baidu.Service.pdb
+D:\百度网盘项目\baidu-pan-ceshi2\Baidu.Service\bin\Debug\EntityFramework.dll
+D:\百度网盘项目\baidu-pan-ceshi2\Baidu.Service\bin\Debug\Model.dll
+D:\百度网盘项目\baidu-pan-ceshi2\Baidu.Service\bin\Debug\Model.pdb
+D:\百度网盘项目\baidu-pan-ceshi2\Baidu.Service\bin\Debug\EntityFramework.xml
+D:\百度网盘项目\baidu-pan-ceshi2\Baidu.Service\bin\Debug\zh-Hans\EntityFramework.resources.dll
