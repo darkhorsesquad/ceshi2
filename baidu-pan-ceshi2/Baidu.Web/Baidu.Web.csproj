@@ -99,6 +99,7 @@
   <ItemGroup>
     <Content Include="Views\web.config" />
     <Content Include="packages.config" />
+    <Content Include="Views\Center\Index.cshtml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
@@ -110,7 +111,6 @@
     <Folder Include="App_Data\" />
     <Folder Include="Models\" />
     <Folder Include="Views\Backstage\" />
-    <Folder Include="Views\Center\" />
     <Folder Include="Views\Denglu\" />
     <Folder Include="Views\Home\" />
     <Folder Include="Views\Resources\" />
